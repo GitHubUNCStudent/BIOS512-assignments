@@ -4,4 +4,4 @@ Assignments for Biostatistics 512 R, data wrangling, data quality control and cl
 
 
 
-include_graphics("MostFrequentSyllabusTerms.png")
+include_graphics("../BIOS512-assignments/MostFrequentSyllabusTerms.png")
