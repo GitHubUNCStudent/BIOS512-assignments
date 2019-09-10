@@ -5,4 +5,4 @@ Assignments for Biostatistics 512 R, data wrangling, data quality control and cl
 
 <img src="https://github.com/GitHubUNCStudent/BIOS512-assignments/blob/master/MostFrequentSyllabusTerms.png">
 
-View [Notebook in R] (https://github.com/GitHubUNCStudent/BIOS512-assignments/blob/master/MostFrequentSyllabusTermsNotebook.ipynb) or [the Markdown](https://github.com/GitHubUNCStudent/BIOS512-assignments/blob/master/MostFrequentSyllabusTermsMD.md)
+View [Notebook in R] (https://github.com/GitHubUNCStudent/BIOS512-assignments/blob/master/MostFrequentSyllabusTermsNotebook.ipynb) or [the Markdown] (https://github.com/GitHubUNCStudent/BIOS512-assignments/blob/master/MostFrequentSyllabusTermsMD.md)
