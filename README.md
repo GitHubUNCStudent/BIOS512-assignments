@@ -3,6 +3,12 @@ Assignments for Biostatistics 512 R, data wrangling, data quality control and cl
 
 [Link for NBViewer] (https://nbviewer.jupyter.org/github/GitHubUNCStudent/BIOS512-assignments/tree/master/)
 
+Notebook:  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitHubUNCStudent/BIOS512-assignments/master)
+
+Lab:  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chuckpr/BIOS512/master?urlpath=lab)
+
 
 <img src="https://github.com/GitHubUNCStudent/BIOS512-assignments/blob/master/MostFrequentSyllabusTerms.png">
 
