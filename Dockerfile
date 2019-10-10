@@ -4,3 +4,7 @@ ARG NB_USER
 ARG NB_UID
 
 RUN pip3 install jupyterlab==1.0.9
+
+
+COPY install.R ./
+RUN R -f install.R
